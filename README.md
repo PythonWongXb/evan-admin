@@ -1,3 +1,6 @@
+# 以下为【demo】版本，具备基本登陆与鉴权能力，【完整可商用版本】与配套辅助答疑请与老王私信沟通购买交流～
+# 老王微信：15942043949
+
 <div align="center"> <a href="https://github.com/anncwb/vue-vben-admin"> <img alt="VbenAdmin Logo" width="200" height="200" src="https://anncwb.github.io/anncwb/images/logo.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
